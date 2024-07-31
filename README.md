@@ -10,5 +10,5 @@ Data wrangling
 Exploratory data analysis  
 Data cleaning  
 Data structuring  
-Data pre-processing
+Data pre-processing  
 Feature engineering
