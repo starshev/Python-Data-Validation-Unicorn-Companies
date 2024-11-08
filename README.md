@@ -1,14 +1,7 @@
-# Data Cleaning and Validation with Python · Unicorns
+# Data Validation with Python · Unicorns
 
-### Context 
+### Project Overview
+Performed data cleaning and validation on financial data of unicorn companies (valued over $1 billion). Focused on data wrangling, pre-processing, and feature engineering to ensure data quality and prepare it for analysis.
 
-Analyzing financial data on unicorn companies — those valued at over one billion dollars.
-
-### Skills
-
-Data wrangling  
-Exploratory data analysis  
-Data cleaning  
-Data structuring  
-Data pre-processing  
-Feature engineering
+### Key Skills
+Data cleaning, validation, wrangling, pre-processing, feature engineering
