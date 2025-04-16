@@ -6,7 +6,7 @@ Clean and validate financial data of unicorn companies (valued over $1 billion),
 ### Skills  
 Data cleaning, data validation, data wrangling, pre-processing, feature engineering.
 
-# Очистка и валидация данных компаний-«единорогов» с использованием Python
+# Валидация данных компаний-«единорогов» с использованием Python
 
 ### Задача  
 Очистить и валидировать финансовые данные компаний-«единорогов» (оценённых более чем в 1 млрд долларов), с акцентом на обработку, предварительную подготовку и инженерию признаков для обеспечения качества данных и подготовки к ML-анализу.
